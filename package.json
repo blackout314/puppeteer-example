@@ -5,6 +5,9 @@
   "repository": "git@github.com:e-xtrategy/puppeteer-example.git",
   "author": "extrategy <info@extrategy.net>",
   "license": "WTFPL",
+  "scripts": {
+    "start":"node index"
+  },
   "dependencies": {
     "puppeteer": "^0.10.0"
   }
